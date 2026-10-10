@@ -1,8 +1,17 @@
-<escape>{
-"latestVersionCode": 1,
-"minVersionCode": 1,
-"downloadLink": "https://www.mediafire.com/",
-"updateMessage": "A new version of Xcupid Manager is available. Update now to enjoy the latest features!",
-"announcement": "",
-"announcementId": "announcement_001"
-}</escape>
+{
+  "latestVersionCode": 1,
+  "minVersionCode": 1,
+  "downloadLink": "",
+  "updateMessage": "A new version is available. Please download the latest update.",
+  "announcementId": "msg1",
+  "announcement": "From Admin : Thank you for installing.",
+  "codes": [
+    {"id": "c1", "hash": "98bb037fc8605ccb5a53ca5b4dc34fcf4c483b04e82b4ffcd18fd3674cf33ba1", "type": "money", "enabled": true, "amount": 2000000},
+    {"id": "c2", "hash": "536d7ac991b9ce92ad5abbabcc8be868b28fd561c6f49b29289bff8a36c933d1", "type": "money", "enabled": true, "amount": 5000000},
+    {"id": "c3", "hash": "653d899ab4e025976a37acb90a7159b35c1a6a009b8e73e0fd85b77569b62c06", "type": "money", "enabled": true, "amount": 10000000},
+    {"id": "c4", "hash": "28606a0bb080c266188a4d2a5c59bc2eb14381004cd43fe68437c42a261a61c8", "type": "fitness_all", "enabled": true},
+    {"id": "c5", "hash": "77833e1ab1532e054405a73fe8d198df503fd9a66c4e36798f9eae1903cff332", "type": "rating_boost", "enabled": true, "players": 2, "boost": 3},
+    {"id": "c6", "hash": "1c65aac402583749a94bbdbe1d9832c57ef10d39690a2bc6f419dcb953ea7233", "type": "rating_boost", "enabled": true, "players": 3, "boost": 4},
+    {"id": "c7", "hash": "ae058b9237b1292a05cc48c16af28911d7fd23c323b1d428b80c569a0c20fde4", "type": "heal_all", "enabled": true}
+  ]
+}
