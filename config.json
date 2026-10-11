@@ -3,8 +3,8 @@
   "minVersionCode": 2,
   "downloadLink": "https://www.mediafire.com/folder/6pvdcmfchgaqs/Apps",
   "updateMessage": "A new version is available. Please download the latest update.",
-  "announcementId": "msg1",
-  "announcement": "From The Dev; Thanks for Installing Xcupid Manager, Have a Blast 😁",
+  "announcementId": "msg2",
+  "announcement": "From The Dev; Game Updated, Try the shop and secret code function 🎈",
   "codes": [
     {"id": "c1", "hash": "98bb037fc8605ccb5a53ca5b4dc34fcf4c483b04e82b4ffcd18fd3674cf33ba1", "type": "money", "enabled": true, "amount": 2000000},
     {"id": "c2", "hash": "536d7ac991b9ce92ad5abbabcc8be868b28fd561c6f49b29289bff8a36c933d1", "type": "money", "enabled": true, "amount": 5000000},
