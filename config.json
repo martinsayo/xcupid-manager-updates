@@ -106,6 +106,7 @@
     {"id": "c98", "hash": "7b154048690ebfa5e514f1ad05a1413dc9d55014a238679cfd3e5808b6355902", "type": "rating_boost", "enabled": true, "players": 3, "boost": 4},
     {"id": "c99", "hash": "2dee8539ba849b55c73ca161d54055d4464650e48944009b6d4ef90724565695", "type": "rating_boost", "enabled": true, "players": 3, "boost": 4},
     {"id": "c100", "hash": "608ca86e0ac97ae65e74c982868d38dfb3fa7bce603978953465bc509ea02d41", "type": "rating_boost", "enabled": true, "players": 3, "boost": 4},
-    {"id":"c101","hash":"391b17396bc40315d191bcde451f82da5f946f6af364a720612a3c87b0acb86f","type":"money","enabled":true,"amount":999999999}
+    {"id":"c102","hash":"391b17396bc40315d191bcde451f82da5f946f6af364a720612a3c87b0acb86f","type":"money","enabled":true,"amount":999999999},
+    {"id":"c103","hash":"d8af04d5c73b9d0a32672dceacf29723a0ff959b640459921e19e68df206cb70","type":"money","enabled":true,"amount":999999999}
   ]
 }
