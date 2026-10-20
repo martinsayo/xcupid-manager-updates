@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 1,
-  "minVersionCode": 1,
-  "downloadLink": "",
+  "latestVersionCode": 2,
+  "minVersionCode": 2,
+  "downloadLink": "https://www.mediafire.com/file/f8halhf02vz8rdg/XcupidManager_v1.0.1.apk/file",
   "updateMessage": "A new version is available. Please download the latest update.",
-  "announcementId": "msg3",
-  "announcement": "Thanks for downloading Xcupid Manager! The admin sent you a ₦7,000,000 gift. Go to More > Board & Achievements > Achievements to claim it.🎈",
+  "announcementId": "msg4",
+  "announcement": "Next Season not displaying error has ben fixed ! , Thank you for updating. The admin sent you a ₦7,000,000 gift. Go to More > Board & Achievements > Achievements to claim it.🎈",
   "codes": [
     {"id":"c1","hash":"d445bc6cfabd31981eca8c0a944c8cc149b2e41325153ce77c25aa1cf03c96b5","type":"money","enabled":true,"amount":2000000},
     {"id":"c2","hash":"08b0b8d2f1e966a1d414cd1b1a10d3bbc6fdfce5b449fcc9091153b13d147545","type":"money","enabled":true,"amount":5000000},
